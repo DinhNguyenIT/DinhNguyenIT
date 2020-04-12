@@ -23,7 +23,6 @@ public class NhanVien {
       public String getTen() {
         return Ten;
     }
-    
    
     public void setTuoi(int Tuoi) {
         this.Tuoi = Tuoi;
@@ -31,7 +30,6 @@ public class NhanVien {
      public int getTuoi() {
         return Tuoi ;
     }
-    
     
     public void setDiachi(String Diachi){
         this.Diachi = Diachi;
