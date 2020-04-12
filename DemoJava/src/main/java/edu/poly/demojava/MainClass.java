@@ -21,7 +21,7 @@ public class MainClass {
         System.out.println("Tien thuong: " + nv1.tinhThuong() + "\n");
 
         NhanVien nv2 = new NhanVien();
-        nv2.setTen("Tran Nhat Nam");
+        nv2.setTen("Tran Nhat Anh");
         nv2.setTuoi(19);
         nv2.setDiachi("Huyen: Ehleo, Tinh: Daklak");
         nv2.setTienluong(2000);
